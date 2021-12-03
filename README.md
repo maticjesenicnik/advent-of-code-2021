@@ -15,8 +15,7 @@ People use them as a [speed contest](https://adventofcode.com/leaderboard),
 [practice problems](https://comp215.blogs.rice.edu/), or to 
 [challenge each other](https://www.reddit.com/r/adventofcode/search?q=flair%3Aupping&restrict_sr=on).
 
-You don't need a computer science background to participate - just a little [programming knowledge]
-(https://www.reddit.com/r/adventofcode/comments/7kd8jt/what_would_you_say_are_the_minimal_skills_for/dre0uu3/)
+You don't need a computer science background to participate - just a little [programming knowledge](https://www.reddit.com/r/adventofcode/comments/7kd8jt/what_would_you_say_are_the_minimal_skills_for/dre0uu3/)
 and some problem solving skills will get you pretty far. Nor do you need a fancy computer; 
 every problem has a solution that completes in at most 15 seconds on ten-year-old hardware.
 
